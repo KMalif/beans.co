@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beans.co</string>
+    <string name="Placeholder">Placeholder</string>
+    <string name="species">Species</string>
+    <string name="Articles">Articles</string>
+    <string name="Variant">Variant</string>
+    <string name="Brewed">Brewed</string>
+    <string name="desc">imgdesc</string>
+</resources>

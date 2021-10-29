@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.beansco">
+
+    <application
+        android:name="com.khafidul_mualif.beansco.util.DisableNightMode"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcherbeansco"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcherbeansco_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Beansco">
+        <activity
+            android:name="com.khafidul_mualif.beansco.SpeciesActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.khafidul_mualif.beansco.ArticleActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.khafidul_mualif.beansco.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.khafidul_mualif.beansco.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
