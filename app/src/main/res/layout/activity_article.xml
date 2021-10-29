@@ -74,6 +74,7 @@
                 android:layout_marginBottom="16dp"
                 android:text="@string/Placeholder"
                 android:textSize="@dimen/contentText"
+                android:justificationMode="inter_word"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
