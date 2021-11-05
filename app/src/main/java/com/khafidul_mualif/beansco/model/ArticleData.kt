@@ -56,21 +56,15 @@ object ArticleData {
         "Kopi Arabika Kintamani Bali\n" +
                 "Beralih ke wilayah tengah Indonesia, kita akan menemukan jenis kopi Arabika lain, yaitu yang berasal dari wilayah Bali. Kopi ini merupakan jenis kopi di Indonesia yang eksotis. Sebab, karakteristik rasa yang dimiliki merupakan perpaduan antara rasa pahit dengan sensasi citrus yang nikmat. Kemudian, setelah diminum, para penikmat kopi akan dimanjakan dengan aftertaste yang manis yang sangat memuaskan.\n" +
                 "\n" +
-                " \n" +
-                "\n" +
                 "Kopi Robusta Lampung\n" +
                 "Jenis kopi di Indonesia bukan hanya Arabika saja, melainkan juga Robusta dari wilayah Provinsi Lampung. Sama seperti Robusta lainnya, tanaman kopi Robusta Lampung memiliki karakteristik yang kuat dan sangat mudah dirawat. Namun, lantaran Lampung memiliki kisaran suhu 24–30° Celsius dan dataran yang strategis, jenis kopi ini bisa tumbuh subur dan memproduksi biji kopi dalam jumlah yang banyak.\n" +
                 "\n" +
                 "Menurut Kementerian Pertanian RI, sebagai produsen kopi Lampung berada di posisi kedua di seluruh Indonesia. Setidaknya ada sekitar 106 juta ton Robusta yang dihasilkan pada tahun 2018 saja!\n" +
                 "\n" +
-                " \n" +
-                "\n" +
                 "Kopi Liberika Riau\n" +
                 "Kamu tahu nggak, selain Robusta dan Arabika, ada juga kopi jenis Liberika? Salah satu kopi yang cukup langka di dunia ini rupanya juga diproduksi di Indonesia, tepatnya di wilayah Rangsang, Kepulauan Meranti, Provinsi Riau.\n" +
                 "\n" +
                 "Kopi ini memiliki aroma seperti coklat. Namun saat meminumnya, kamu akan merasakan profil rasa yang cukup berbeda dari kopi biasanya sebab kopi Liberika Riau memberikan sensasi rasa buah nangka. Cukup menarik, ya!\n" +
-                "\n" +
-                " \n" +
                 "\n" +
                 "Kopi Arabika Mandailing\n" +
                 "Jenis kopi di Indonesia yang satu ini merupakan hasil dari Suku Mandailing yang umumnya tersebar di wilayah Pulau Sumatra. Namun begitu, kopi ini bisa dibilang cukup spesial hingga terkenal di kancah dunia dengan nama Sumatra Mandheling coffee.\n" +
